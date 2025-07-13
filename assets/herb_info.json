@@ -1,0 +1,762 @@
+{
+    "AloeVera": {
+        "scientific_name": "Aloe barbadensis miller",
+        "description": "Aloe Vera is a succulent plant widely recognized for its thick, fleshy leaves that contain a gel rich in vitamins, minerals, amino acids, and antioxidants. Native to the Arabian Peninsula, it has been used for centuries in traditional medicine across various cultures. The plant thrives in arid conditions and is known for its soothing and healing properties, with approximately 200 active compounds including polysaccharides and enzymes.",
+        "medicinal_uses": [
+            "Skin hydration and regeneration",
+            "Wound healing and scar reduction",
+            "Digestive health support",
+            "Anti-inflammatory effects",
+            "Immune system enhancement"
+        ],
+        "diseases_treated": [
+            "Burns and sunburns",
+            "Psoriasis and eczema",
+            "Constipation and irritable bowel syndrome",
+            "Type 2 diabetes",
+            "Oral health issues"
+        ],
+        "how_to_use": "Extract the gel from fresh leaves and apply directly to the skin for burns or wounds. For internal use, consume 1-2 tablespoons of aloe vera juice diluted in water daily, preferably after consulting a healthcare provider due to its potent laxative effect."
+    },
+    "Amla": {
+        "scientific_name": "Phyllanthus emblica",
+        "description": "Amla, also known as Indian gooseberry, is a small, round fruit that grows on a deciduous tree native to India. Rich in Vitamin C (about 20 times more than an orange), it is a cornerstone of Ayurvedic medicine. The fruit, available in green or yellowish hues, contains polyphenols, flavonoids, and tannins, making it a powerful antioxidant with approximately 150-200 seeds per fruit.",
+        "medicinal_uses": [
+            "Boosts immunity with high Vitamin C content",
+            "Promotes hair growth and prevents graying",
+            "Aids digestion and metabolism",
+            "Reduces oxidative stress",
+            "Enhances liver function"
+        ],
+        "diseases_treated": [
+            "Scurvy and vitamin deficiencies",
+            "Common cold and flu",
+            "Indigestion and acidity",
+            "Hair loss and dandruff",
+            "Liver disorders"
+        ],
+        "how_to_use": "Eat fresh amla fruit or drink 20-30 ml of amla juice daily. Alternatively, mix amla powder (1-2 teaspoons) with honey or water and consume on an empty stomach."
+    },
+    "Amruta_Balli": {
+        "scientific_name": "Tinospora cordifolia",
+        "description": "Amruta Balli, commonly known as Giloy or Guduchi, is a climbing shrub found in India and Southeast Asia. Its heart-shaped leaves and woody stems are rich in alkaloids, glycosides, and steroids, contributing to its adaptogenic and immune-boosting properties. Traditionally used in Ayurveda, it thrives in tropical and subtropical climates.",
+        "medicinal_uses": [
+            "Strengthens the immune system",
+            "Regulates blood sugar levels",
+            "Reduces inflammation and pain",
+            "Fights fever and infections",
+            "Improves cognitive function"
+        ],
+        "diseases_treated": [
+            "Diabetes mellitus",
+            "Chronic fever and malaria",
+            "Rheumatoid arthritis",
+            "Respiratory infections",
+            "Stress-related disorders"
+        ],
+        "how_to_use": "Boil 10-15 grams of dried stems in 200 ml of water, reduce to half, and drink as tea. Alternatively, take 500 mg of Giloy powder with honey twice daily."
+    },
+    "Arali": {
+        "scientific_name": "Nerium oleander",
+        "description": "Arali, or Oleander, is an evergreen shrub known for its beautiful but toxic flowers and leaves. Native to the Mediterranean and parts of Asia, it contains cardiac glycosides like oleandrin, making it a potent medicinal plant when used under strict supervision. It grows well in warm climates with well-drained soil.",
+        "medicinal_uses": [
+            "Supports heart function as a cardiac tonic",
+            "Reduces inflammation",
+            "Alleviates pain and swelling",
+            "Promotes skin health",
+            "Acts as an antioxidant"
+        ],
+        "diseases_treated": [
+            "Congestive heart failure",
+            "Arthritis and joint pain",
+            "Skin infections and rashes",
+            "Chronic pain",
+            "Oxidative stress"
+        ],
+        "how_to_use": "Use only under expert guidance in controlled herbal preparations (e.g., diluted extracts) due to its toxicity. Avoid self-medication."
+    },
+    "Ashoka": {
+        "scientific_name": "Saraca indica",
+        "description": "Ashoka is a small evergreen tree native to India, revered in Ayurvedic medicine for its bark and flowers. Rich in tannins, glycosides, and flavonoids, it is known for its uterine tonic properties and anti-inflammatory effects. The tree blooms with vibrant orange-red flowers and thrives in humid environments.",
+        "medicinal_uses": [
+            "Uterine health and menstrual regulation",
+            "Anti-inflammatory and analgesic effects",
+            "Antioxidant properties",
+            "Supports hormonal balance",
+            "Relieves pelvic pain"
+        ],
+        "diseases_treated": [
+            "Menorrhagia and dysmenorrhea",
+            "Uterine fibroids",
+            "Inflammatory conditions",
+            "Anxiety and stress",
+            "Pelvic inflammatory disease"
+        ],
+        "how_to_use": "Prepare a decoction by boiling 10-20 grams of bark in 200 ml of water, reduce to half, and drink once daily. Can also be mixed with milk."
+    },
+    "Ashwagandha": {
+        "scientific_name": "Withania somnifera",
+        "description": "Ashwagandha, often called Indian Ginseng, is a small shrub with yellow flowers and red fruit, native to India and North Africa. Its roots contain withanolides, which provide adaptogenic, anti-stress, and rejuvenating effects. It has been used for over 3,000 years in Ayurveda and grows in dry regions.",
+        "medicinal_uses": [
+            "Reduces stress and anxiety",
+            "Boosts immunity and vitality",
+            "Improves cognitive function",
+            "Anti-inflammatory properties",
+            "Enhances physical stamina"
+        ],
+        "diseases_treated": [
+            "Chronic stress and insomnia",
+            "Arthritis and joint inflammation",
+            "Memory loss and dementia",
+            "High cholesterol",
+            "Hypothyroidism"
+        ],
+        "how_to_use": "Take 300-500 mg of root powder with warm milk or water before bed. Capsules (500 mg) are also available for convenience."
+    },
+    "Avacado": {
+        "scientific_name": "Persea americana",
+        "description": "Avocado is a nutrient-dense fruit from a tree native to Central and South America. Rich in monounsaturated fats, vitamins E and K, and antioxidants, it has a creamy texture and green flesh. It thrives in tropical and subtropical climates and is prized for its heart-healthy properties.",
+        "medicinal_uses": [
+            "Supports cardiovascular health",
+            "Provides antioxidant protection",
+            "Nourishes skin and hair",
+            "Aids digestion",
+            "Reduces inflammation"
+        ],
+        "diseases_treated": [
+            "Heart disease and hypertension",
+            "Skin aging and dryness",
+            "Constipation",
+            "Inflammatory conditions",
+            "High cholesterol"
+        ],
+        "how_to_use": "Eat the flesh raw in salads or smoothies. Apply mashed avocado as a face mask for skin benefits."
+    },
+    "Bamboo": {
+        "scientific_name": "Bambusa vulgaris",
+        "description": "Bamboo is a fast-growing perennial grass native to Asia, known for its silica-rich shoots and leaves. Used in traditional medicine, it supports bone health and has anti-inflammatory properties. It grows in diverse climates and is harvested for its young shoots.",
+        "medicinal_uses": [
+            "Strengthens bones and joints",
+            "Reduces inflammation",
+            "Aids digestion",
+            "Promotes wound healing",
+            "Acts as an antioxidant"
+        ],
+        "diseases_treated": [
+            "Osteoporosis and bone fractures",
+            "Arthritis",
+            "Indigestion",
+            "Wounds and ulcers",
+            "Chronic inflammation"
+        ],
+        "how_to_use": "Boil young bamboo shoots or leaves in water for tea. Apply crushed leaves as a poultice for wounds."
+    },
+    "Basale": {
+        "scientific_name": "Basella alba",
+        "description": "Basale, or Malabar spinach, is a leafy green vine native to tropical Asia and Africa. Rich in iron, vitamins A and C, and antioxidants, it is used in culinary and medicinal contexts. The plant thrives in warm, humid conditions with its glossy, heart-shaped leaves.",
+        "medicinal_uses": [
+            "Treats anemia with high iron content",
+            "Supports digestive health",
+            "Nourishes skin",
+            "Boosts immunity",
+            "Acts as an antioxidant"
+        ],
+        "diseases_treated": [
+            "Iron-deficiency anemia",
+            "Digestive disorders",
+            "Skin infections",
+            "Weak immunity",
+            "Vitamin A deficiency"
+        ],
+        "how_to_use": "Cook leaves as a vegetable or blend into a juice. Apply leaf paste topically for skin issues."
+    },
+    "Betel": {
+        "scientific_name": "Piper betle",
+        "description": "Betel is a vine native to Southeast Asia, known for its heart-shaped leaves with a spicy aroma. Containing phenols and essential oils, it is used in traditional medicine and as a stimulant. It grows in tropical climates and is often chewed with areca nut.",
+        "medicinal_uses": [
+            "Improves oral health",
+            "Aids digestion",
+            "Reduces inflammation",
+            "Exhibits antibacterial properties",
+            "Acts as a stimulant"
+        ],
+        "diseases_treated": [
+            "Bad breath and gum disease",
+            "Indigestion",
+            "Oral infections",
+            "Cough and cold",
+            "Wound infections"
+        ],
+        "how_to_use": "Chew fresh leaves or use in a mouth rinse. Apply leaf juice to wounds for healing."
+    },
+    "Betel_Nut": {
+        "scientific_name": "Areca catechu",
+        "description": "Betel nut, from the areca palm native to the Pacific Islands and Southeast Asia, is a hard seed used as a stimulant. Rich in alkaloids, it has medicinal uses but is also known for potential health risks. The tree grows in tropical regions.",
+        "medicinal_uses": [
+            "Stimulates digestion",
+            "Controls parasitic infections",
+            "Improves oral hygiene",
+            "Acts as an astringent",
+            "Boosts energy"
+        ],
+        "diseases_treated": [
+            "Intestinal worms",
+            "Indigestion",
+            "Oral health issues",
+            "Fatigue",
+            "Diarrhea"
+        ],
+        "how_to_use": "Chew small pieces with caution or use in controlled herbal remedies. Consult a professional."
+    },
+    "Brahmi": {
+        "scientific_name": "Bacopa monnieri",
+        "description": "Brahmi is a creeping herb found in wetlands across India, known for its small, succulent leaves. Rich in bacosides, it enhances brain function and is a staple in Ayurveda. It thrives in marshy areas and is harvested for its medicinal properties.",
+        "medicinal_uses": [
+            "Enhances memory and learning",
+            "Reduces anxiety and stress",
+            "Supports epilepsy management",
+            "Anti-inflammatory effects",
+            "Improves mental clarity"
+        ],
+        "diseases_treated": [
+            "Alzheimer’s disease",
+            "ADHD and concentration issues",
+            "Anxiety disorders",
+            "Epilepsy",
+            "Inflammatory conditions"
+        ],
+        "how_to_use": "Take 300-500 mg of Brahmi powder with water or milk. Use as a tea from fresh leaves."
+    },
+    "Castor": {
+        "scientific_name": "Ricinus communis",
+        "description": "Castor is a plant native to Africa and India, known for its large, glossy leaves and toxic seeds that produce castor oil. The oil, rich in ricinoleic acid, has laxative and anti-inflammatory properties. It grows in warm climates.",
+        "medicinal_uses": [
+            "Acts as a natural laxative",
+            "Reduces inflammation",
+            "Moisturizes skin",
+            "Relieves pain",
+            "Exhibits antimicrobial properties"
+        ],
+        "diseases_treated": [
+            "Constipation",
+            "Arthritis",
+            "Dry skin conditions",
+            "Muscle pain",
+            "Skin infections"
+        ],
+        "how_to_use": "Apply castor oil topically to skin or joints. Take 1-2 teaspoons orally with caution, under medical supervision."
+    },
+    "Curry_Leaf": {
+        "scientific_name": "Murraya koenigii",
+        "description": "Curry leaf is an aromatic tree native to India, with small, shiny leaves used in cooking and medicine. Rich in carbohydrates, fiber, and antioxidants, it supports digestion and hair health. It thrives in subtropical climates.",
+        "medicinal_uses": [
+            "Aids digestion",
+            "Regulates blood sugar",
+            "Reduces inflammation",
+            "Promotes hair growth",
+            "Acts as an antioxidant"
+        ],
+        "diseases_treated": [
+            "Diabetes",
+            "Indigestion",
+            "Hair loss",
+            "Inflammation",
+            "High cholesterol"
+        ],
+        "how_to_use": "Add fresh leaves to cooking or brew 10-15 leaves in water for tea. Use oil for hair massage."
+    },
+    "Doddapatre": {
+        "scientific_name": "Coleus amboinicus",
+        "description": "Doddapatre, or Cuban oregano, is a succulent herb native to Africa and India, known for its thick, fuzzy leaves. Rich in essential oils and antioxidants, it is used for respiratory and digestive relief. It grows well in warm, sunny areas.",
+        "medicinal_uses": [
+            "Relieves respiratory issues",
+            "Reduces inflammation",
+            "Exhibits antimicrobial properties",
+            "Aids digestion",
+            "Soothes coughs"
+        ],
+        "diseases_treated": [
+            "Asthma and bronchitis",
+            "Cold and cough",
+            "Indigestion",
+            "Infections",
+            "Inflammatory conditions"
+        ],
+        "how_to_use": "Boil 5-10 leaves in water for tea or crush leaves for a topical poultice."
+    },
+    "Ekka": {
+        "scientific_name": "Acalypha indica",
+        "description": "Ekka is a weed-like herb native to India and Southeast Asia, with serrated leaves and small flowers. Rich in flavonoids and alkaloids, it is used for skin and wound care. It grows in disturbed soils and warm climates.",
+        "medicinal_uses": [
+            "Promotes wound healing",
+            "Exhibits antibacterial properties",
+            "Reduces inflammation",
+            "Treats skin disorders",
+            "Acts as an antioxidant"
+        ],
+        "diseases_treated": [
+            "Wounds and cuts",
+            "Skin infections",
+            "Inflammation",
+            "Scabies",
+            "Rashes"
+        ],
+        "how_to_use": "Crush fresh leaves into a paste and apply to affected skin areas."
+    },
+    "Ganike": {
+        "scientific_name": "Cardiospermum halicacabum",
+        "description": "Ganike, or Balloon Vine, is a climbing plant native to tropical regions, known for its balloon-like seed pods. Rich in saponins and flavonoids, it is used for joint and skin health. It grows in warm, humid environments.",
+        "medicinal_uses": [
+            "Relieves rheumatic pain",
+            "Reduces inflammation",
+            "Promotes skin health",
+            "Reduces fever",
+            "Acts as an analgesic"
+        ],
+        "diseases_treated": [
+            "Rheumatoid arthritis",
+            "Joint pain",
+            "Skin rashes",
+            "Fever",
+            "Inflammation"
+        ],
+        "how_to_use": "Boil leaves or seeds in water for tea or apply as a poultice to joints."
+    },
+    "Gauva": {
+        "scientific_name": "Psidium guajava",
+        "description": "Guava is a tropical fruit tree native to Central America, known for its green or pink flesh and high nutrient content. Rich in vitamin C, fiber, and antioxidants, it supports digestion and immunity. It thrives in warm climates.",
+        "medicinal_uses": [
+            "Improves digestive health",
+            "Boosts immunity",
+            "Regulates blood sugar",
+            "Promotes oral health",
+            "Acts as an antioxidant"
+        ],
+        "diseases_treated": [
+            "Diarrhea and dysentery",
+            "Diabetes",
+            "Common cold",
+            "Oral infections",
+            "Constipation"
+        ],
+        "how_to_use": "Eat fresh fruit or brew leaves into tea. Use leaf decoction as a mouthwash."
+    },
+    "Geranium": {
+        "scientific_name": "Pelargonium graveolens",
+        "description": "Geranium is a flowering plant native to South Africa, known for its fragrant leaves and essential oil. Rich in geraniol and citronellol, it is used for skin care and emotional well-being. It grows in temperate climates.",
+        "medicinal_uses": [
+            "Improves skin health",
+            "Reduces inflammation",
+            "Acts as an antidepressant",
+            "Promotes wound healing",
+            "Exhibits antiseptic properties"
+        ],
+        "diseases_treated": [
+            "Acne and oily skin",
+            "Inflammation",
+            "Depression",
+            "Wounds and cuts",
+            "Infections"
+        ],
+        "how_to_use": "Use geranium essential oil in aromatherapy or dilute with a carrier oil for skin application."
+    },
+    "Henna": {
+        "scientific_name": "Lawsonia inermis",
+        "description": "Henna is a flowering shrub native to North Africa and South Asia, known for its leaves that produce a natural dye. Rich in lawsone, it is used for hair and skin care. It thrives in arid and semi-arid regions.",
+        "medicinal_uses": [
+            "Promotes hair growth",
+            "Treats skin conditions",
+            "Reduces inflammation",
+            "Acts as a cooling agent",
+            "Exhibits antifungal properties"
+        ],
+        "diseases_treated": [
+            "Hair loss and dandruff",
+            "Skin infections",
+            "Inflammation",
+            "Fungal infections",
+            "Burns"
+        ],
+        "how_to_use": "Make a paste from dried leaves and apply to hair or skin. Leave for 2-4 hours before rinsing."
+    },
+    "Hibiscus": {
+        "scientific_name": "Hibiscus rosa-sinensis",
+        "description": "Hibiscus is a flowering plant native to East Asia, known for its large, colorful blooms. Rich in anthocyanins and vitamin C, it is used for blood pressure regulation and hair care. It grows in tropical and subtropical climates.",
+        "medicinal_uses": [
+            "Lowers blood pressure",
+            "Provides antioxidant effects",
+            "Promotes hair growth",
+            "Reduces inflammation",
+            "Acts as a cooling agent"
+        ],
+        "diseases_treated": [
+            "Hypertension",
+            "Hair loss",
+            "Inflammatory conditions",
+            "Fever",
+            "Cough"
+        ],
+        "how_to_use": "Brew dried flowers into tea or use crushed petals in hair masks."
+    },
+    "Honge": {
+        "scientific_name": "Pongamia pinnata",
+        "description": "Honge, or Karanja, is a tree native to India and Southeast Asia, known for its seeds that yield oil. Rich in flavonoids and terpenoids, it is used for skin diseases and wound healing. It grows in coastal and riverine areas.",
+        "medicinal_uses": [
+            "Treats skin diseases",
+            "Reduces inflammation",
+            "Promotes wound healing",
+            "Exhibits antibacterial properties",
+            "Acts as an antioxidant"
+        ],
+        "diseases_treated": [
+            "Skin infections",
+            "Wounds and ulcers",
+            "Inflammation",
+            "Rheumatism",
+            "Scabies"
+        ],
+        "how_to_use": "Apply Honge oil topically to skin. Use seed powder in herbal preparations under guidance."
+    },
+    "Insulin": {
+        "scientific_name": "Costus igneus",
+        "description": "Insulin plant, or Spiral Flag, is a herb native to South America, known for its striped leaves. Rich in corosolic acid, it helps regulate blood sugar. It thrives in warm, sunny conditions and is popular in herbal medicine.",
+        "medicinal_uses": [
+            "Regulates blood glucose levels",
+            "Provides antioxidant effects",
+            "Aids digestion",
+            "Boosts immunity",
+            "Supports liver health"
+        ],
+        "diseases_treated": [
+            "Type 2 diabetes",
+            "Hyperglycemia",
+            "Indigestion",
+            "Weak immunity",
+            "Fatigue"
+        ],
+        "how_to_use": "Chew 1-2 fresh leaves daily or brew leaves into tea."
+    },
+    "Jasmine": {
+        "scientific_name": "Jasminum officinale",
+        "description": "Jasmine is a fragrant flowering vine native to the Himalayas and China. Rich in essential oils like benzyl acetate, it is used for relaxation and skin care. It grows in temperate and subtropical regions.",
+        "medicinal_uses": [
+            "Promotes relaxation and sleep",
+            "Acts as an antidepressant",
+            "Reduces inflammation",
+            "Nourishes skin",
+            "Exhibits antiseptic properties"
+        ],
+        "diseases_treated": [
+            "Anxiety and insomnia",
+            "Depression",
+            "Skin infections",
+            "Inflammation",
+            "Wounds"
+        ],
+        "how_to_use": "Use jasmine essential oil in aromatherapy or brew flowers into tea."
+    },
+    "Lemon": {
+        "scientific_name": "Citrus limon",
+        "description": "Lemon is a citrus fruit native to Northeast India, known for its acidic juice and high vitamin C content. Rich in citric acid and flavonoids, it supports immunity and digestion. It grows in warm climates worldwide.",
+        "medicinal_uses": [
+            "Boosts immunity with Vitamin C",
+            "Aids digestion",
+            "Nourishes skin",
+            "Acts as an antioxidant",
+            "Detoxifies the body"
+        ],
+        "diseases_treated": [
+            "Common cold and flu",
+            "Scurvy",
+            "Kidney stones",
+            "Hypertension",
+            "Constipation"
+        ],
+        "how_to_use": "Squeeze juice into water or tea (1-2 tablespoons). Apply diluted juice to skin for brightening."
+    },
+    "Lemon_grass": {
+        "scientific_name": "Cymbopogon citratus",
+        "description": "Lemongrass is a tall, perennial grass native to tropical regions like India and Southeast Asia. Rich in citral and geraniol, it is used for digestion and fever relief. It grows in warm, humid conditions.",
+        "medicinal_uses": [
+            "Aids digestion",
+            "Reduces fever",
+            "Provides antioxidant effects",
+            "Reduces inflammation",
+            "Promotes relaxation"
+        ],
+        "diseases_treated": [
+            "Indigestion",
+            "Fever and malaria",
+            "Inflammation",
+            "Anxiety",
+            "Cough"
+        ],
+        "how_to_use": "Boil stalks in water for tea or use essential oil in aromatherapy."
+    },
+    "Mango": {
+        "scientific_name": "Mangifera indica",
+        "description": "Mango is a juicy fruit from a tree native to South Asia, known for its sweet flavor and vibrant color. Rich in vitamins A, C, and E, it supports immunity and digestion. It thrives in tropical climates.",
+        "medicinal_uses": [
+            "Boosts immunity",
+            "Aids digestion",
+            "Nourishes skin",
+            "Reduces inflammation",
+            "Acts as an antioxidant"
+        ],
+        "diseases_treated": [
+            "Common cold",
+            "Constipation",
+            "Skin disorders",
+            "Inflammation",
+            "Anemia"
+        ],
+        "how_to_use": "Eat fresh fruit or brew dried leaves into tea. Apply pulp as a skin mask."
+    },
+    "Mint": {
+        "scientific_name": "Mentha",
+        "description": "Mint is an aromatic herb native to Europe and Asia, known for its refreshing leaves. Rich in menthol and menthone, it aids digestion and relieves headaches. It grows in moist, shaded areas.",
+        "medicinal_uses": [
+            "Aids digestion",
+            "Relieves cold symptoms",
+            "Reduces headaches",
+            "Prevents nausea",
+            "Freshens breath"
+        ],
+        "diseases_treated": [
+            "Indigestion and IBS",
+            "Common cold",
+            "Headaches",
+            "Nausea and vomiting",
+            "Bad breath"
+        ],
+        "how_to_use": "Brew fresh leaves into tea or chew leaves for breath freshening."
+    },
+    "Nagadali": {
+        "scientific_name": "Murraya paniculata",
+        "description": "Nagadali, or Orange Jasmine, is a shrub native to Southeast Asia, known for its fragrant white flowers. Rich in alkaloids and flavonoids, it is used for pain relief and fever reduction. It grows in tropical climates.",
+        "medicinal_uses": [
+            "Reduces inflammation",
+            "Relieves pain",
+            "Acts as an antioxidant",
+            "Reduces fever",
+            "Aids digestion"
+        ],
+        "diseases_treated": [
+            "Inflammatory conditions",
+            "Chronic pain",
+            "Fever",
+            "Indigestion",
+            "Stress"
+        ],
+        "how_to_use": "Boil leaves in water for tea or apply crushed leaves as a poultice."
+    },
+    "Neem": {
+        "scientific_name": "Azadirachta indica",
+        "description": "Neem is a tree native to India, known for its bitter leaves and seeds. Rich in azadirachtin and nimbin, it is a powerhouse for skin and dental care. It thrives in tropical and subtropical regions.",
+        "medicinal_uses": [
+            "Treats skin diseases",
+            "Exhibits antibacterial properties",
+            "Purifies blood",
+            "Regulates blood sugar",
+            "Supports dental health"
+        ],
+        "diseases_treated": [
+            "Acne and eczema",
+            "Diabetes",
+            "Malaria",
+            "Oral infections",
+            "Skin ulcers"
+        ],
+        "how_to_use": "Chew fresh leaves or use neem oil for skin. Brew leaves for tea."
+    },
+    "Nithyapushpa": {
+        "scientific_name": "Duranta erecta",
+        "description": "Nithyapushpa, or Golden Dewdrop, is a shrub native to Central America, known for its purple flowers. Rich in flavonoids, it is used for wound healing and fever reduction. It grows in warm climates.",
+        "medicinal_uses": [
+            "Reduces inflammation",
+            "Relieves pain",
+            "Promotes wound healing",
+            "Reduces fever",
+            "Acts as an antioxidant"
+        ],
+        "diseases_treated": [
+            "Inflammation",
+            "Chronic pain",
+            "Wounds",
+            "Fever",
+            "Infections"
+        ],
+        "how_to_use": "Boil leaves or flowers in water for tea or apply as a paste to wounds."
+    },
+    "Nooni": {
+        "scientific_name": "Morinda citrifolia",
+        "description": "Nooni, or Noni, is a tree native to Southeast Asia and Australasia, known for its pungent fruit. Rich in proxeronine and antioxidants, it boosts immunity. It grows in coastal regions.",
+        "medicinal_uses": [
+            "Boosts immune system",
+            "Reduces inflammation",
+            "Acts as an antioxidant",
+            "Aids digestion",
+            "Relieves pain"
+        ],
+        "diseases_treated": [
+            "Infections",
+            "Inflammatory conditions",
+            "Chronic pain",
+            "Indigestion",
+            "Fatigue"
+        ],
+        "how_to_use": "Drink 30 ml of noni juice daily or use fruit pulp in recipes."
+    },
+    "Pappaya": {
+        "scientific_name": "Carica papaya",
+        "description": "Papaya is a tropical fruit tree native to Central America, known for its orange flesh and enzyme-rich seeds. Rich in papain and vitamins A and C, it aids digestion and healing. It thrives in warm climates.",
+        "medicinal_uses": [
+            "Aids digestion with papain enzyme",
+            "Boosts immunity",
+            "Reduces inflammation",
+            "Promotes skin health",
+            "Accelerates wound healing"
+        ],
+        "diseases_treated": [
+            "Indigestion",
+            "Common cold",
+            "Inflammatory conditions",
+            "Wounds",
+            "Skin aging"
+        ],
+        "how_to_use": "Eat ripe fruit or brew dried leaves into tea. Apply pulp to skin."
+    },
+    "Pepper": {
+        "scientific_name": "Piper nigrum",
+        "description": "Black pepper is a flowering vine native to India, known for its pungent berries. Rich in piperine, it enhances digestion and metabolism. It grows in tropical regions and is a key spice.",
+        "medicinal_uses": [
+            "Stimulates digestion",
+            "Provides antioxidant effects",
+            "Reduces inflammation",
+            "Relieves respiratory issues",
+            "Alleviates pain"
+        ],
+        "diseases_treated": [
+            "Indigestion",
+            "Cold and cough",
+            "Inflammation",
+            "Chronic pain",
+            "Respiratory disorders"
+        ],
+        "how_to_use": "Add ground pepper to food or brew with honey for tea."
+    },
+    "Pomegranate": {
+        "scientific_name": "Punica granatum",
+        "description": "Pomegranate is a fruit-bearing shrub native to the Middle East, known for its juicy arils. Rich in punicalagins and anthocyanins, it supports heart health. It grows in Mediterranean and tropical climates.",
+        "medicinal_uses": [
+            "Supports cardiovascular health",
+            "Provides antioxidant effects",
+            "Reduces inflammation",
+            "Boosts immunity",
+            "Aids digestion"
+        ],
+        "diseases_treated": [
+            "Heart disease",
+            "Inflammation",
+            "Cancer risk reduction",
+            "Digestive issues",
+            "Anemia"
+        ],
+        "how_to_use": "Drink 100 ml of juice daily or eat arils. Use peel in herbal teas."
+    },
+    "Raktachandini": {
+        "scientific_name": "Plumbago zeylanica",
+        "description": "Raktachandini, or Leadwort, is a perennial shrub native to India, known for its red roots. Rich in plumbagin, it aids digestion and wound healing. It grows in warm, dry regions.",
+        "medicinal_uses": [
+            "Aids digestion",
+            "Reduces inflammation",
+            "Acts as an antioxidant",
+            "Relieves pain",
+            "Promotes wound healing"
+        ],
+        "diseases_treated": [
+            "Indigestion",
+            "Inflammatory conditions",
+            "Chronic pain",
+            "Wounds",
+            "Skin disorders"
+        ],
+        "how_to_use": "Use 1-2 grams of root powder in water or apply root paste to wounds."
+    },
+    "Rose": {
+        "scientific_name": "Rosa centifolia",
+        "description": "Rose is a flowering shrub native to Europe and Asia, known for its fragrant petals. Rich in vitamin C and phenolic compounds, it is used for skin care and relaxation. It grows in temperate climates.",
+        "medicinal_uses": [
+            "Nourishes and tones skin",
+            "Reduces inflammation",
+            "Acts as an antidepressant",
+            "Aids digestion",
+            "Provides antioxidant effects"
+        ],
+        "diseases_treated": [
+            "Skin aging and wrinkles",
+            "Inflammation",
+            "Depression",
+            "Indigestion",
+            "Stress"
+        ],
+        "how_to_use": "Brew dried petals into tea or use rosewater as a skin toner."
+    },
+    "Sapota": {
+        "scientific_name": "Manilkara zapota",
+        "description": "Sapota, or Chiku, is a tropical fruit tree native to Central America, known for its brown, sweet fruit. Rich in vitamins A and C, it boosts energy and digestion. It thrives in warm climates.",
+        "medicinal_uses": [
+            "Aids digestion",
+            "Boosts immunity",
+            "Provides antioxidant effects",
+            "Increases energy levels",
+            "Reduces inflammation"
+        ],
+        "diseases_treated": [
+            "Constipation",
+            "Common cold",
+            "Inflammatory conditions",
+            "Fatigue",
+            "Anemia"
+        ],
+        "how_to_use": "Eat ripe fruit or brew seeds into tea. Apply pulp to skin."
+    },
+    "Tulasi": {
+        "scientific_name": "Ocimum sanctum",
+        "description": "Tulasi, or Holy Basil, is a sacred herb native to India, known for its green or purple leaves. Rich in eugenol and ursolic acid, it is an adaptogen used for respiratory health. It grows in tropical and subtropical regions.",
+        "medicinal_uses": [
+            "Relieves respiratory disorders",
+            "Reduces fever and colds",
+            "Acts as an anti-stress agent",
+            "Reduces inflammation",
+            "Boosts immunity"
+        ],
+        "diseases_treated": [
+            "Asthma and bronchitis",
+            "Common cold and flu",
+            "Stress and anxiety",
+            "Inflammatory conditions",
+            "Weak immunity"
+        ],
+        "how_to_use": "Brew 5-10 fresh leaves into tea or chew leaves raw."
+    },
+    "Wood_sorel": {
+        "scientific_name": "Oxalis corniculata",
+        "description": "Wood sorrel is a small, clover-like herb native to Europe and Asia, known for its sour leaves. Rich in oxalic acid and vitamin C, it aids digestion and skin care. It grows in shady, moist areas.",
+        "medicinal_uses": [
+            "Aids digestion",
+            "Reduces inflammation",
+            "Provides antioxidant effects",
+            "Reduces fever",
+            "Nourishes skin"
+        ],
+        "diseases_treated": [
+            "Indigestion",
+            "Inflammatory conditions",
+            "Fever",
+            "Skin rashes",
+            "Scurvy"
+        ],
+        "how_to_use": "Eat fresh leaves in moderation or brew into tea. Apply leaf juice to skin."
+    }
+}

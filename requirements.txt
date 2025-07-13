@@ -1,0 +1,16 @@
+streamlit
+tensorflow
+numpy
+pandas
+matplotlib
+opencv-python
+Pillow
+seaborn
+scikit-learn
+requests
+streamlit-lottie
+streamlit-webrtc
+ultralytics
+torch
+torchvision
+labelImg

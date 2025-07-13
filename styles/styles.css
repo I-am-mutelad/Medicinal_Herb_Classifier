@@ -1,0 +1,527 @@
+/* General Styling */
+body {
+    font-family: 'Roboto', 'Arial', sans-serif;
+    background-color: #ffffff;
+    color: #2e4a2e;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    overflow-x: hidden;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5 {
+    color: #2e7d32;
+    font-weight: 700;
+    margin-bottom: 0.75rem;
+    transition: color 0.3s ease;
+}
+
+h1 {
+    font-size: 2.8rem;
+    text-shadow: 1px 1px 3px rgba(46, 125, 50, 0.2);
+}
+
+h2 {
+    font-size: 2.2rem;
+}
+
+h3 {
+    font-size: 1.7rem;
+}
+
+h4 {
+    font-size: 1.3rem;
+}
+
+h5 {
+    font-size: 1.1rem;
+    color: #388e3c;
+}
+
+/* Links */
+a {
+    color: #4caf50;
+    text-decoration: none;
+    transition: color 0.3s ease, text-shadow 0.3s ease;
+}
+
+a:hover {
+    color: #388e3c;
+    text-decoration: underline;
+    text-shadow: 0 0 5px rgba(76, 175, 80, 0.5);
+}
+
+/* Info Box */
+.info-box {
+    background-color: #f5faf5;
+    padding: 25px 30px;
+    border-radius: 15px;
+    margin: 20px 0;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    border-left: 6px solid #4caf50;
+    transition: transform 0.4s ease, box-shadow 0.4s ease;
+    animation: fadeIn 0.6s ease-in-out;
+}
+
+.info-box:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
+}
+
+/* Feature Card */
+.feature-card {
+    background-color: #ffffff;
+    padding: 25px;
+    border-radius: 12px;
+    text-align: center;
+    margin: 15px 0;
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.4s ease, box-shadow 0.4s ease;
+    animation: slideUp 0.6s ease-in-out;
+    border: 1px solid #e8f5e9;
+}
+
+.feature-card i {
+    font-size: 3rem;
+    color: #4caf50;
+    margin-bottom: 15px;
+    transition: color 0.3s ease;
+}
+
+.feature-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 5px 18px rgba(0, 0, 0, 0.2);
+}
+
+.feature-card:hover i {
+    color: #388e3c;
+}
+
+/* Herb Card */
+.herb-card {
+    background-color: #ffffff;
+    padding: 20px 25px;
+    border-radius: 12px;
+    margin: 15px 0;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.4s ease, box-shadow 0.4s ease;
+    animation: fadeIn 0.6s ease-in-out;
+    border: 1px solid #e8f5e9;
+}
+
+.herb-card:hover {
+    transform: scale(1.03);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.herb-card ul {
+    padding-left: 25px;
+    list-style-type: square;
+}
+
+.herb-card li {
+    margin: 8px 0;
+    color: #2e4a2e;
+}
+
+/* Card - for About section */
+.card {
+    background-color: #ffffff !important;
+    padding: 20px !important;
+    border-radius: 12px !important;
+    margin: 15px 0 !important;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1) !important;
+    border: 1px solid #e8f5e9 !important;
+    color: #333333 !important;
+    line-height: 1.6 !important;
+    font-size: 14px !important;
+    font-weight: 400 !important;
+}
+
+/* Metric Card */
+.metric-card {
+    background: linear-gradient(135deg, #4caf50, #388e3c);
+    color: #ffffff;
+    padding: 25px 30px;
+    border-radius: 15px;
+    text-align: center;
+    margin: 15px 0;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    transition: transform 0.4s ease;
+}
+
+.metric-card:hover {
+    transform: translateY(-3px);
+}
+
+.metric-card h3 {
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+}
+
+/* Chart Container */
+.chart-container {
+    background-color: #ffffff;
+    padding: 25px 30px;
+    border-radius: 15px;
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px 0;
+    animation: fadeIn 0.6s ease-in-out;
+}
+
+/* Sidebar */
+.logo-container {
+    text-align: center;
+    margin: 25px 0;
+    padding: 10px;
+    background: linear-gradient(135deg, #ffffff, #f5faf5);
+    border-radius: 15px;
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.4s ease, box-shadow 0.4s ease;
+}
+
+.logo-container:hover {
+    transform: scale(1.05);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.15);
+}
+
+.logo-container img {
+    max-width: 180px;
+    border-radius: 10px;
+    transition: transform 0.4s ease;
+}
+
+.logo-container:hover img {
+    transform: rotate(5deg);
+}
+
+.nav-item {
+    margin: 20px 0;
+    padding: 10px;
+    background-color: #f5faf5;
+    border-radius: 8px;
+    transition: background-color 0.3s ease;
+}
+
+.nav-item:hover {
+    background-color: #e8f5e9;
+}
+
+.nav-item h4 {
+    color: #2e7d32;
+    font-size: 1.4rem;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.stRadio > div {
+    background-color: #f5faf5;
+    padding: 12px;
+    border-radius: 10px;
+    margin: 10px 0;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.stRadio > div:hover {
+    background-color: #e8f5e9;
+    transform: translateX(5px);
+}
+
+.stRadio > div > label {
+    color: #2e4a2e;
+    font-size: 1.2rem;
+}
+
+/* Social Icons */
+.social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    margin: 25px 0;
+    padding: 10px;
+    background-color: #f5faf5;
+    border-radius: 10px;
+}
+
+.social-icons a {
+    color: #2e7d32;
+    font-size: 2.2rem;
+    transition: transform 0.4s ease, color 0.3s ease;
+}
+
+.social-icons a:hover {
+    color: #4caf50;
+    transform: scale(1.4) rotate(10deg);
+}
+
+/* Buttons */
+.stButton > button {
+    background: linear-gradient(135deg, #4caf50, #388e3c);
+    color: #ffffff;
+    border: none;
+    padding: 12px 25px;
+    border-radius: 10px;
+    font-size: 1.1rem;
+    font-weight: 600;
+    transition: background-color 0.4s ease, transform 0.4s ease, box-shadow 0.4s ease;
+    box-shadow: 0 2px 6px rgba(76, 175, 80, 0.3);
+}
+
+.stButton > button:hover {
+    background: linear-gradient(135deg, #388e3c, #2e7d32);
+    transform: translateY(-3px);
+    box-shadow: 0 4px 12px rgba(76, 175, 80, 0.5);
+}
+
+/* Inputs */
+.stTextInput > div > div > input,
+.stTextArea > div > div > textarea,
+.stSelectbox > div > div > select {
+    border: 2px solid #e8f5e9;
+    border-radius: 10px;
+    padding: 12px;
+    font-size: 1.1rem;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+    background-color: #ffffff;
+}
+
+.stTextInput > div > div > input:focus,
+.stTextArea > div > div > textarea:focus,
+.stSelectbox > div > div > select:focus {
+    border-color: #4caf50;
+    box-shadow: 0 0 8px rgba(76, 175, 80, 0.3);
+    outline: none;
+}
+
+/* Slider */
+.stSlider > div > div > div {
+    background-color: #e8f5e9;
+    border-radius: 10px;
+}
+
+.stSlider [role="slider"] {
+    background-color: #4caf50;
+    border-radius: 5px;
+}
+
+/* Footer */
+.footer {
+    background: linear-gradient(135deg, #2e7d32, #388e3c);
+    color: #ffffff;
+    padding: 50px 20px;
+    margin-top: 50px;
+    position: relative;
+    width: 100%;
+    box-shadow: 0 -2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.footer-section {
+    flex: 1;
+    min-width: 220px;
+    margin: 15px;
+    padding: 15px;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+}
+
+.footer-section:hover {
+    transform: translateY(-2px);
+}
+
+.footer-section h4 {
+    color: #ffffff;
+    font-size: 1.4rem;
+    margin-bottom: 15px;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+.footer-section p {
+    font-size: 1rem;
+    color: #e8f5e9;
+}
+
+.footer-section ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-section ul li {
+    margin: 10px 0;
+}
+
+.footer-section a {
+    color: #c8e6c9;
+    font-size: 1rem;
+    transition: color 0.3s ease, text-shadow 0.3s ease;
+}
+
+.footer-section a:hover {
+    color: #ffffff;
+    text-shadow: 0 0 5px rgba(200, 230, 201, 0.5);
+}
+
+.copyright {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 0.95rem;
+    color: #e8f5e9;
+    opacity: 0.9;
+    padding: 10px 0;
+    background-color: rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+/* Animations */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes slideUp {
+    from {
+        transform: translateY(30px);
+        opacity: 0;
+    }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+/* Responsive Design */
+@media (max-width: 1200px) {
+    .footer-content {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .footer-section {
+        margin: 20px 0;
+        width: 100%;
+    }
+
+    .feature-card, .herb-card, .metric-card {
+        margin: 10px;
+        padding: 20px;
+    }
+
+    h1 {
+        font-size: 2.5rem;
+    }
+
+    h2 {
+        font-size: 2rem;
+    }
+}
+
+@media (max-width: 900px) {
+    .logo-container img {
+        max-width: 150px;
+    }
+
+    .social-icons a {
+        font-size: 2rem;
+    }
+
+    .stButton > button {
+        padding: 10px 20px;
+        font-size: 1rem;
+    }
+
+    .info-box, .herb-card, .feature-card, .metric-card {
+        padding: 15px 20px;
+    }
+
+    h1 {
+        font-size: 2.2rem;
+    }
+
+    h2 {
+        font-size: 1.8rem;
+    }
+
+    h3 {
+        font-size: 1.5rem;
+    }
+}
+
+@media (max-width: 600px) {
+    .footer-section {
+        min-width: 100%;
+    }
+
+    .social-icons {
+        gap: 15px;
+    }
+
+    .stRadio > div > label {
+        font-size: 1.1rem;
+    }
+
+    .info-box, .herb-card, .feature-card, .metric-card {
+        margin: 10px;
+        padding: 12px 15px;
+    }
+
+    h1 {
+        font-size: 1.8rem;
+    }
+
+    h2 {
+        font-size: 1.5rem;
+    }
+
+    h3 {
+        font-size: 1.3rem;
+    }
+
+    .stButton > button {
+        width: 100%;
+    }
+}
+
+/* Additional Styling for Beauty */
+.stApp {
+    background: linear-gradient(135deg, #ffffff 70%, #f5faf5 100%);
+}
+
+.stTabs [data-baseweb="tab-list"] {
+    background-color: #e8f5e9;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.stTabs [data-baseweb="tab"] {
+    background-color: transparent;
+    color: #2e4a2e;
+    padding: 10px 20px;
+    border-radius: 8px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.stTabs [data-baseweb="tab"]:hover {
+    background-color: #c8e6c9;
+    color: #2e7d32;
+}
+
+.stTabs [aria-selected="true"] {
+    background-color: #4caf50;
+    color: #ffffff;
+    font-weight: 600;
+}

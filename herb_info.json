@@ -1,0 +1,402 @@
+{
+    "Aloevera": {
+        "description": "A succulent plant known for its thick, fleshy leaves containing a gel-like substance.",
+        "uses": "Soothes burns, promotes wound healing, improves skin health, aids digestion."
+    },
+    "Amla": {
+        "description": "Also known as Indian Gooseberry, rich in Vitamin C and antioxidants.",
+        "uses": "Boosts immunity, improves digestion, promotes hair growth, enhances skin health."
+    },
+    "Amruta_Balli": {
+        "description": "Known as Giloy or Guduchi, a climbing shrub with heart-shaped leaves.",
+        "uses": "Boosts immunity, treats fever, improves digestion, manages diabetes."
+    },
+    "Amruthaballi": {
+        "description": "Another name for Giloy, widely used in Ayurveda.",
+        "uses": "Enhances immunity, detoxifies the body, treats chronic fever."
+    },
+    "Arali": {
+        "description": "A flowering plant often used in traditional medicine.",
+        "uses": "Treats respiratory issues, reduces inflammation, promotes skin health."
+    },
+    "Ashoka": {
+        "description": "A tree with beautiful orange flowers, sacred in Indian culture.",
+        "uses": "Regulates menstrual cycles, relieves pain, improves skin complexion."
+    },
+    "Ashwagandha": {
+        "description": "An adaptogenic herb known for its stress-relieving properties.",
+        "uses": "Reduces stress, boosts energy, improves sleep, enhances cognitive function."
+    },
+    "Astma_weed": {
+        "description": "Also known as Asthma Plant (Chamaesyce hirta), used for respiratory relief.",
+        "uses": "Treats asthma, relieves cough, reduces inflammation."
+    },
+    "Avacado": {
+        "description": "A nutrient-rich fruit with creamy flesh, though not a traditional herb, used medicinally.",
+        "uses": "Supports heart health, improves digestion, promotes skin health."
+    },
+    "Badipala": {
+        "description": "A lesser-known medicinal plant in Indian tradition.",
+        "uses": "Treats skin infections, reduces inflammation."
+    },
+    "Balloon_Vine": {
+        "description": "Known as Cardiospermum, a climbing plant with balloon-like fruits.",
+        "uses": "Relieves joint pain, treats skin disorders, reduces inflammation."
+    },
+    "Bamboo": {
+        "description": "A fast-growing grass with medicinal shoots.",
+        "uses": "Treats respiratory issues, promotes wound healing, strengthens bones."
+    },
+    "Basale": {
+        "description": "Known as Malabar Spinach, a leafy green vegetable.",
+        "uses": "Improves digestion, rich in vitamins, supports eye health."
+    },
+    "Beans": {
+        "description": "A common legume with medicinal properties.",
+        "uses": "Regulates blood sugar, supports heart health, aids digestion."
+    },
+    "Betel": {
+        "description": "A vine with heart-shaped leaves, culturally significant in India.",
+        "uses": "Improves digestion, freshens breath, treats cough."
+    },
+    "Betel_Nut": {
+        "description": "The seed of the Areca palm, often chewed with betel leaves.",
+        "uses": "Stimulates digestion, acts as a mild stimulant, treats oral health issues."
+    },
+    "Bhrami": {
+        "description": "Also spelled Brahmi, a creeping herb known for cognitive benefits.",
+        "uses": "Enhances memory, reduces stress, promotes hair growth."
+    },
+    "Bringaraja": {
+        "description": "Known as False Daisy, used in hair care.",
+        "uses": "Promotes hair growth, treats liver disorders, reduces inflammation."
+    },
+    "Brahmi": {
+        "description": "A synonym for Bhrami, widely used in Ayurveda.",
+        "uses": "Improves brain function, reduces anxiety, supports hair health."
+    },
+    "camphor": {
+        "description": "Derived from the camphor tree, used for its aromatic properties.",
+        "uses": "Relieves pain, treats respiratory issues, repels insects."
+    },
+    "Caricature": {
+        "description": "Likely Caricature Plant (Graptophyllum pictum), used ornamentally and medicinally.",
+        "uses": "Treats wounds, reduces swelling, supports skin health."
+    },
+    "Castor": {
+        "description": "A plant known for its oil-rich seeds.",
+        "uses": "Relieves constipation, promotes hair growth, reduces inflammation."
+    },
+    "Catharanthus": {
+        "description": "Known as Madagascar Periwinkle, used in cancer treatment.",
+        "uses": "Treats diabetes, reduces blood pressure, has anti-cancer properties."
+    },
+    "Chakte": {
+        "description": "A regional medicinal plant.",
+        "uses": "Treats digestive issues, reduces fever."
+    },
+    "Chilly": {
+        "description": "Capsicum plant with spicy fruits.",
+        "uses": "Boosts metabolism, relieves pain, improves circulation."
+    },
+    "Citron_lime": {
+        "description": "A citrus fruit with medicinal properties.",
+        "uses": "Aids digestion, boosts immunity, detoxifies the body."
+    },
+    "Coffee": {
+        "description": "A stimulant plant with medicinal seeds.",
+        "uses": "Boosts energy, improves mental focus, has antioxidant properties."
+    },
+    "Common_rue": {
+        "description": "Known as Rue, a strongly aromatic herb.",
+        "uses": "Relieves menstrual pain, reduces inflammation, repels insects."
+    },
+    "Coriender": {
+        "description": "Likely Coriander, a spice and medicinal herb.",
+        "uses": "Aids digestion, reduces cholesterol, has anti-inflammatory properties."
+    },
+    "Curry": {
+        "description": "Curry Leaf plant, used in cooking and medicine.",
+        "uses": "Improves digestion, promotes hair health, regulates blood sugar."
+    },
+    "Curry_Leaf": {
+        "description": "Synonym for Curry, widely used in South Indian cuisine.",
+        "uses": "Supports digestion, enhances hair growth, has antioxidant properties."
+    },
+    "Doddapatre": {
+        "description": "Known as Indian Borage or Coleus amboinicus.",
+        "uses": "Treats colds, relieves cough, reduces inflammation."
+    },
+    "Doddpathre": {
+        "description": "Synonym for Doddapatre.",
+        "uses": "Soothes respiratory issues, improves digestion, heals skin infections."
+    },
+    "Drumstick": {
+        "description": "Moringa plant, known for its nutrient-rich leaves and pods.",
+        "uses": "Boosts immunity, regulates blood sugar, improves bone health."
+    },
+    "Ekka": {
+        "description": "Known as Calotropis, a milkweed plant.",
+        "uses": "Treats skin diseases, reduces inflammation, relieves pain."
+    },
+    "Eucalyptus": {
+        "description": "A tree with aromatic leaves.",
+        "uses": "Relieves respiratory issues, has antiseptic properties, reduces pain."
+    },
+    "Ganigale": {
+        "description": "A regional medicinal herb.",
+        "uses": "Treats digestive disorders, reduces fever."
+    },
+    "Ganike": {
+        "description": "Likely a variant of Ganigale or a distinct herb.",
+        "uses": "Supports digestion, relieves respiratory issues."
+    },
+    "Gasagase": {
+        "description": "Poppy seeds, used in small quantities medicinally.",
+        "uses": "Relieves pain, improves sleep, supports digestion."
+    },
+    "Gauva": {
+        "description": "Synonym for Guava, a tropical fruit tree.",
+        "uses": "Boosts immunity, aids digestion, regulates blood sugar."
+    },
+    "Geranium": {
+        "description": "A flowering plant with medicinal properties.",
+        "uses": "Reduces stress, improves skin health, has anti-inflammatory effects."
+    },
+    "Ginger": {
+        "description": "A rhizome widely used as a spice and medicine.",
+        "uses": "Relieves nausea, reduces inflammation, boosts immunity."
+    },
+    "Globe_Amarnath": {
+        "description": "Known as Gomphrena, used in traditional medicine.",
+        "uses": "Treats respiratory issues, reduces inflammation."
+    },
+    "Guava": {
+        "description": "A tropical fruit tree with medicinal leaves.",
+        "uses": "Improves digestion, boosts immunity, treats diarrhea."
+    },
+    "Henna": {
+        "description": "A plant used for dye and medicine.",
+        "uses": "Cools the body, promotes hair health, treats skin conditions."
+    },
+    "Hibiscus": {
+        "description": "A flowering plant with vibrant blooms.",
+        "uses": "Lowers blood pressure, promotes hair growth, aids digestion."
+    },
+    "Honge": {
+        "description": "Known as Pongamia, a tree with medicinal seeds.",
+        "uses": "Treats skin diseases, reduces inflammation, has antiseptic properties."
+    },
+    "Insulin": {
+        "description": "Likely Costus igneus, known as Insulin Plant.",
+        "uses": "Regulates blood sugar, treats diabetes, improves digestion."
+    },
+    "Jackfruit": {
+        "description": "A large fruit tree with medicinal properties.",
+        "uses": "Boosts immunity, aids digestion, supports heart health."
+    },
+    "Jasmine": {
+        "description": "A fragrant flowering plant.",
+        "uses": "Reduces stress, improves skin health, aids sleep."
+    },
+    "Kambajala": {
+        "description": "A regional medicinal plant.",
+        "uses": "Treats wounds, reduces inflammation."
+    },
+    "Kasambruga": {
+        "description": "Likely Cassia occidentalis, used in Ayurveda.",
+        "uses": "Treats fever, improves digestion, detoxifies the body."
+    },
+    "Kohlrabi": {
+        "description": "A vegetable with medicinal properties.",
+        "uses": "Supports digestion, rich in antioxidants, boosts immunity."
+    },
+    "Lantana": {
+        "description": "A flowering shrub with medicinal uses.",
+        "uses": "Treats wounds, reduces inflammation, has antiseptic properties."
+    },
+    "Lemon": {
+        "description": "A citrus fruit with medicinal properties.",
+        "uses": "Boosts immunity, aids digestion, detoxifies the body."
+    },
+    "Lemon_grass": {
+        "description": "An aromatic grass used in teas and medicine.",
+        "uses": "Relieves stress, aids digestion, reduces inflammation."
+    },
+    "Lemongrass": {
+        "description": "Synonym for Lemon_grass.",
+        "uses": "Improves digestion, reduces anxiety, has antibacterial properties."
+    },
+    "Malabar_Nut": {
+        "description": "Known as Adhatoda vasica, used for respiratory health.",
+        "uses": "Treats cough, relieves asthma, reduces inflammation."
+    },
+    "Malabar_Spinach": {
+        "description": "Synonym for Basale.",
+        "uses": "Rich in vitamins, supports digestion, improves eye health."
+    },
+    "Mango": {
+        "description": "A tropical fruit tree with medicinal leaves.",
+        "uses": "Boosts immunity, aids digestion, improves skin health."
+    },
+    "Marigold": {
+        "description": "A flowering plant with healing properties.",
+        "uses": "Treats skin infections, reduces inflammation, promotes wound healing."
+    },
+    "Mint": {
+        "description": "An aromatic herb with cooling properties.",
+        "uses": "Relieves indigestion, freshens breath, reduces stress."
+    },
+    "Nagadali": {
+        "description": "Known as Ruta graveolens or Rue.",
+        "uses": "Relieves menstrual pain, reduces inflammation, repels insects."
+    },
+    "Neem": {
+        "description": "A tree with strong antibacterial properties.",
+        "uses": "Purifies blood, treats skin conditions, boosts immunity."
+    },
+    "Nelavembu": {
+        "description": "Known as Andrographis paniculata, used for fever.",
+        "uses": "Treats fever, boosts immunity, detoxifies the body."
+    },
+    "Nerale": {
+        "description": "Known as Jamun or Black Plum.",
+        "uses": "Regulates blood sugar, improves digestion, boosts immunity."
+    },
+    "Nithyapushpa": {
+        "description": "Likely Catharanthus roseus, a synonym for Catharanthus.",
+        "uses": "Treats diabetes, reduces blood pressure, has anti-cancer properties."
+    },
+    "Nooni": {
+        "description": "Known as Morinda citrifolia or Noni.",
+        "uses": "Boosts immunity, reduces inflammation, supports digestion."
+    },
+    "Onion": {
+        "description": "A bulb vegetable with medicinal properties.",
+        "uses": "Boosts immunity, reduces inflammation, improves heart health."
+    },
+    "Padri": {
+        "description": "A regional medicinal plant.",
+        "uses": "Treats skin conditions, reduces fever."
+    },
+    "Palak(Spinach)": {
+        "description": "A leafy green vegetable.",
+        "uses": "Rich in iron, supports digestion, improves eye health."
+    },
+    "Palak_Spinach": {
+        "description": "Synonym for Palak(Spinach).",
+        "uses": "Boosts immunity, supports blood health, aids digestion."
+    },
+    "Papaya": {
+        "description": "A tropical fruit tree with medicinal leaves.",
+        "uses": "Aids digestion, boosts immunity, promotes skin health."
+    },
+    "Pappaya": {
+        "description": "Synonym for Papaya.",
+        "uses": "Improves digestion, reduces inflammation, supports wound healing."
+    },
+    "Parijatha": {
+        "description": "Known as Night-flowering Jasmine.",
+        "uses": "Relieves joint pain, reduces fever, promotes relaxation."
+    },
+    "Pea": {
+        "description": "A legume with medicinal properties.",
+        "uses": "Supports digestion, rich in vitamins, boosts immunity."
+    },
+    "Pepper": {
+        "description": "A spice with medicinal properties.",
+        "uses": "Improves digestion, reduces inflammation, boosts metabolism."
+    },
+    "Pomegranate": {
+        "description": "A fruit tree with medicinal properties.",
+        "uses": "Boosts heart health, reduces inflammation, improves digestion."
+    },
+    "Pomoegranate": {
+        "description": "Synonym for Pomegranate.",
+        "uses": "Rich in antioxidants, supports heart health, aids digestion."
+    },
+    "Pumpkin": {
+        "description": "A vegetable with medicinal seeds and flesh.",
+        "uses": "Supports eye health, boosts immunity, aids digestion."
+    },
+    "Raddish": {
+        "description": "A root vegetable with medicinal properties.",
+        "uses": "Aids digestion, detoxifies the body, improves liver health."
+    },
+    "Raktachandini": {
+        "description": "Known as Red Sandalwood, used in Ayurveda.",
+        "uses": "Treats skin conditions, reduces inflammation, cools the body."
+    },
+    "Rose": {
+        "description": "A flowering plant with medicinal petals.",
+        "uses": "Reduces stress, improves skin health, aids digestion."
+    },
+    "Sampige": {
+        "description": "Known as Champaka or Magnolia champaca.",
+        "uses": "Relieves stress, improves skin health, has anti-inflammatory properties."
+    },
+    "Sapota": {
+        "description": "Known as Chikoo, a sweet fruit with medicinal properties.",
+        "uses": "Boosts energy, aids digestion, improves skin health."
+    },
+    "Seethaashoka": {
+        "description": "Synonym for Ashoka.",
+        "uses": "Regulates menstrual cycles, relieves pain, improves skin health."
+    },
+    "Seethapala": {
+        "description": "Known as Custard Apple or Sugar Apple.",
+        "uses": "Boosts immunity, aids digestion, supports heart health."
+    },
+    "Spinach": {
+        "description": "Synonym for Palak(Spinach).",
+        "uses": "Rich in iron, supports blood health, improves digestion."
+    },
+    "Tamarind": {
+        "description": "A tree with sour fruit and medicinal leaves.",
+        "uses": "Aids digestion, reduces inflammation, boosts immunity."
+    },
+    "Taro": {
+        "description": "A root vegetable with medicinal properties.",
+        "uses": "Supports digestion, rich in fiber, boosts immunity."
+    },
+    "Tecoma": {
+        "description": "A flowering shrub with medicinal uses.",
+        "uses": "Treats diabetes, reduces inflammation, promotes wound healing."
+    },
+    "Thumbe": {
+        "description": "Known as Leucas, used in traditional medicine.",
+        "uses": "Relieves headaches, treats respiratory issues, reduces fever."
+    },
+    "Tomato": {
+        "description": "A fruit vegetable with medicinal properties.",
+        "uses": "Rich in antioxidants, supports heart health, improves skin health."
+    },
+    "Tulasi": {
+        "description": "Synonym for Tulsi.",
+        "uses": "Relieves stress, boosts immunity, treats respiratory issues."
+    },
+    "Tulsi": {
+        "description": "Holy Basil, sacred in Ayurveda.",
+        "uses": "Reduces stress, boosts immunity, treats colds and coughs."
+    },
+    "Turmeric": {
+        "description": "A rhizome with powerful anti-inflammatory properties.",
+        "uses": "Reduces inflammation, boosts immunity, promotes skin health."
+    },
+    "Wood_sorel": {
+        "description": "Known as Wood Sorrel, a tangy edible plant.",
+        "uses": "Rich in Vitamin C, aids digestion, cools the body."
+    },
+    "ashoka": {
+        "description": "Synonym for Ashoka.",
+        "uses": "Regulates menstrual cycles, relieves pain, improves skin complexion."
+    },
+    "kamakasturi": {
+        "description": "Known as Musk Mallow, an aromatic herb.",
+        "uses": "Relieves respiratory issues, improves digestion, has anti-inflammatory properties."
+    },
+    "kepala": {
+        "description": "A regional medicinal plant.",
+        "uses": "Treats skin conditions, reduces inflammation."
+    }
+}

@@ -1,0 +1,364 @@
+2025-04-11 02:29:58,369 - INFO - Found 40 plant classes and 80 leaf classes
+2025-04-11 02:29:58,369 - INFO - Total unique classes: 99
+2025-04-11 02:29:58,369 - INFO - Total images: 12845
+2025-04-11 02:29:58,369 - INFO - Average images per class: 129.7
+2025-04-11 02:30:01,477 - INFO - Starting model training...
+2025-04-11 02:33:40,472 - INFO - Found 40 plant classes and 80 leaf classes
+2025-04-11 02:33:40,472 - INFO - Total unique classes: 99
+2025-04-11 02:33:40,472 - INFO - Total images: 12845
+2025-04-11 02:33:40,472 - INFO - Average images per class: 129.7
+2025-04-11 10:57:32,788 - INFO - Found 40 plant classes and 80 leaf classes
+2025-04-11 10:57:32,788 - INFO - Total unique classes: 99
+2025-04-11 10:57:32,788 - INFO - Total images: 12845
+2025-04-11 10:57:32,788 - INFO - Average images per class: 129.7
+2025-04-11 17:03:21,432 - INFO - Found 40 plant classes and 80 leaf classes
+2025-04-11 17:03:21,432 - INFO - Total unique classes: 99
+2025-04-11 17:03:21,432 - INFO - Total images: 12845
+2025-04-11 17:03:21,432 - INFO - Average images per class: 129.7
+2025-04-11 17:03:22,157 - INFO - 
+==================================================
+2025-04-11 17:03:22,157 - INFO - Testing dataset generators...
+2025-04-11 17:03:22,157 - INFO - ==================================================
+2025-04-11 17:03:22,157 - INFO - 
+Testing plant dataset generator...
+2025-04-11 17:03:23,345 - INFO - Plant train batch - X shape: (32, 224, 224, 3), y shape: (32, 99)
+2025-04-11 17:03:23,345 - INFO - Plant classes in batch: 21 classes
+2025-04-11 17:03:23,353 - INFO -   Amla: 1 samples
+2025-04-11 17:03:23,353 - INFO -   Amruta_Balli: 3 samples
+2025-04-11 17:03:23,353 - INFO -   Arali: 1 samples
+2025-04-11 17:03:23,353 - INFO -   Ashoka: 1 samples
+2025-04-11 17:03:23,355 - INFO -   Betel: 2 samples
+2025-04-11 17:03:23,355 - INFO -   Betel_Nut: 1 samples
+2025-04-11 17:03:23,355 - INFO -   Brahmi: 1 samples
+2025-04-11 17:03:23,355 - INFO -   Curry_Leaf: 2 samples
+2025-04-11 17:03:23,355 - INFO -   Doddapatre: 1 samples
+2025-04-11 17:03:23,355 - INFO -   Ekka: 2 samples
+2025-04-11 17:03:23,355 - INFO -   Gauva: 1 samples
+2025-04-11 17:03:23,357 - INFO -   Geranium: 2 samples
+2025-04-11 17:03:23,357 - INFO -   Insulin: 1 samples
+2025-04-11 17:03:23,357 - INFO -   Jasmine: 2 samples
+2025-04-11 17:03:23,357 - INFO -   Mango: 1 samples
+2025-04-11 17:03:23,357 - INFO -   Mint: 3 samples
+2025-04-11 17:03:23,357 - INFO -   Nithyapushpa: 1 samples
+2025-04-11 17:03:23,357 - INFO -   Pappaya: 1 samples
+2025-04-11 17:03:23,357 - INFO -   Pomegranate: 2 samples
+2025-04-11 17:03:23,357 - INFO -   Raktachandini: 1 samples
+2025-04-11 17:03:23,357 - INFO -   Rose: 2 samples
+2025-04-11 17:03:23,357 - INFO - 
+Testing leaf dataset generator...
+2025-04-11 17:03:26,489 - INFO - Leaf train batch - X shape: (32, 224, 224, 3), y shape: (32, 99)
+2025-04-11 17:03:26,489 - INFO - Leaf classes in batch: 21 classes
+2025-04-11 17:03:26,489 - INFO -   Aloevera: 1 samples
+2025-04-11 17:03:26,491 - INFO -   Amla: 1 samples
+2025-04-11 17:03:26,491 - INFO -   Astma_weed: 1 samples
+2025-04-11 17:03:26,491 - INFO -   Curry: 1 samples
+2025-04-11 17:03:26,491 - INFO -   Ekka: 3 samples
+2025-04-11 17:03:26,491 - INFO -   Ganigale: 1 samples
+2025-04-11 17:03:26,491 - INFO -   Ginger: 1 samples
+2025-04-11 17:03:26,491 - INFO -   Guava: 1 samples
+2025-04-11 17:03:26,491 - INFO -   Jackfruit: 1 samples
+2025-04-11 17:03:26,491 - INFO -   Kohlrabi: 1 samples
+2025-04-11 17:03:26,491 - INFO -   Neem: 2 samples
+2025-04-11 17:03:26,491 - INFO -   Nelavembu: 3 samples
+2025-04-11 17:03:26,491 - INFO -   Onion: 1 samples
+2025-04-11 17:03:26,491 - INFO -   Palak(Spinach): 3 samples
+2025-04-11 17:03:26,491 - INFO -   Seethapala: 1 samples
+2025-04-11 17:03:26,491 - INFO -   Tamarind: 2 samples
+2025-04-11 17:03:26,491 - INFO -   Taro: 1 samples
+2025-04-11 17:03:26,491 - INFO -   Tulsi: 2 samples
+2025-04-11 17:03:26,491 - INFO -   camphor: 1 samples
+2025-04-11 17:03:26,491 - INFO -   kamakasturi: 3 samples
+2025-04-11 17:03:26,491 - INFO -   kepala: 1 samples
+2025-04-11 17:03:26,495 - INFO - 
+Testing combined generator...
+2025-04-11 17:03:29,605 - INFO - Combined batch - X shape: (64, 224, 224, 3), y shape: (64, 99)
+2025-04-11 17:03:29,605 - INFO - Total classes in combined batch: 41
+2025-04-11 17:03:30,883 - INFO - 
+Dataset samples visualization saved to utils/dataset_samples.png
+2025-04-11 17:03:30,885 - INFO - ==================================================
+2025-04-11 17:03:30,888 - INFO - Dataset testing completed successfully!
+2025-04-11 17:03:30,893 - INFO - ==================================================
+
+2025-04-11 17:03:32,764 - INFO - ==================================================
+2025-04-11 17:03:32,764 - INFO - Starting model training...
+2025-04-11 17:03:32,764 - INFO - ==================================================
+2025-04-11 17:03:42,771 - ERROR - 
+Training failed: Python int too large to convert to C long
+2025-04-11 17:11:07,681 - INFO - Found 40 plant classes and 80 leaf classes
+2025-04-11 17:11:07,682 - INFO - Total unique classes: 99
+2025-04-11 17:11:07,682 - INFO - Total images: 12845
+2025-04-11 17:11:07,682 - INFO - Average images per class: 129.7
+2025-04-11 17:11:08,435 - INFO - 
+==================================================
+2025-04-11 17:11:08,435 - INFO - Testing dataset generators...
+2025-04-11 17:11:08,439 - INFO - ==================================================
+2025-04-11 17:11:08,439 - INFO - 
+Testing plant dataset generator...
+2025-04-11 17:11:09,601 - INFO - Plant train batch - X shape: (32, 224, 224, 3), y shape: (32, 99)
+2025-04-11 17:11:09,601 - INFO - Plant classes in batch: 19 classes
+2025-04-11 17:11:09,601 - INFO -   Amruta_Balli: 1 samples
+2025-04-11 17:11:09,601 - INFO -   Ashoka: 2 samples
+2025-04-11 17:11:09,601 - INFO -   Avacado: 2 samples
+2025-04-11 17:11:09,601 - INFO -   Basale: 2 samples
+2025-04-11 17:11:09,601 - INFO -   Betel: 1 samples
+2025-04-11 17:11:09,601 - INFO -   Betel_Nut: 2 samples
+2025-04-11 17:11:09,601 - INFO -   Doddapatre: 2 samples
+2025-04-11 17:11:09,601 - INFO -   Ekka: 1 samples
+2025-04-11 17:11:09,601 - INFO -   Ganike: 3 samples
+2025-04-11 17:11:09,601 - INFO -   Henna: 1 samples
+2025-04-11 17:11:09,601 - INFO -   Honge: 1 samples
+2025-04-11 17:11:09,601 - INFO -   Lemon_grass: 2 samples
+2025-04-11 17:11:09,601 - INFO -   Nithyapushpa: 2 samples
+2025-04-11 17:11:09,601 - INFO -   Nooni: 1 samples
+2025-04-11 17:11:09,614 - INFO -   Pappaya: 1 samples
+2025-04-11 17:11:09,615 - INFO -   Pomegranate: 2 samples
+2025-04-11 17:11:09,615 - INFO -   Raktachandini: 1 samples
+2025-04-11 17:11:09,615 - INFO -   Rose: 1 samples
+2025-04-11 17:11:09,615 - INFO -   Wood_sorel: 4 samples
+2025-04-11 17:11:09,615 - INFO - 
+Testing leaf dataset generator...
+2025-04-11 17:11:11,643 - INFO - Leaf train batch - X shape: (32, 224, 224, 3), y shape: (32, 99)
+2025-04-11 17:11:11,643 - INFO - Leaf classes in batch: 25 classes
+2025-04-11 17:11:11,643 - INFO -   Amruthaballi: 2 samples
+2025-04-11 17:11:11,643 - INFO -   Arali: 1 samples
+2025-04-11 17:11:11,643 - INFO -   Badipala: 1 samples
+2025-04-11 17:11:11,643 - INFO -   Bamboo: 1 samples
+2025-04-11 17:11:11,643 - INFO -   Caricature: 1 samples
+2025-04-11 17:11:11,643 - INFO -   Catharanthus: 1 samples
+2025-04-11 17:11:11,643 - INFO -   Common rue(naagdalli): 2 samples
+2025-04-11 17:11:11,643 - INFO -   Curry: 2 samples
+2025-04-11 17:11:11,643 - INFO -   Ekka: 2 samples
+2025-04-11 17:11:11,643 - INFO -   Guava: 1 samples
+2025-04-11 17:11:11,643 - INFO -   Honge: 1 samples
+2025-04-11 17:11:11,643 - INFO -   Jackfruit: 1 samples
+2025-04-11 17:11:11,643 - INFO -   Kambajala: 1 samples
+2025-04-11 17:11:11,643 - INFO -   Lantana: 1 samples
+2025-04-11 17:11:11,643 - INFO -   Mango: 1 samples
+2025-04-11 17:11:11,643 - INFO -   Marigold: 1 samples
+2025-04-11 17:11:11,643 - INFO -   Mint: 3 samples
+2025-04-11 17:11:11,643 - INFO -   Nelavembu: 1 samples
+2025-04-11 17:11:11,643 - INFO -   Nooni: 1 samples
+2025-04-11 17:11:11,643 - INFO -   Pea: 1 samples
+2025-04-11 17:11:11,652 - INFO -   Pepper: 1 samples
+2025-04-11 17:11:11,653 - INFO -   Pomoegranate: 2 samples
+2025-04-11 17:11:11,653 - INFO -   Tamarind: 1 samples
+2025-04-11 17:11:11,653 - INFO -   Taro: 1 samples
+2025-04-11 17:11:11,653 - INFO -   Tulsi: 1 samples
+2025-04-11 17:11:11,653 - INFO - 
+Testing combined generator...
+2025-04-11 17:11:14,683 - INFO - Combined batch - X shape: (64, 224, 224, 3), y shape: (64, 99)
+2025-04-11 17:11:14,683 - INFO - Total classes in combined batch: 41
+2025-04-11 17:11:16,346 - INFO - 
+Dataset samples visualization saved to utils/dataset_samples.png
+2025-04-11 17:11:16,346 - INFO - ==================================================
+2025-04-11 17:11:16,346 - INFO - Dataset testing completed successfully!
+2025-04-11 17:11:16,346 - INFO - ==================================================
+
+2025-04-11 17:11:17,926 - INFO - ==================================================
+2025-04-11 17:11:17,926 - INFO - Starting model training...
+2025-04-11 17:11:17,926 - INFO - ==================================================
+2025-04-11 17:31:14,707 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-04-11 17:53:18,119 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-04-11 18:07:05,155 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-04-11 18:34:58,585 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-04-11 18:47:29,886 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-04-11 19:38:58,633 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-04-12 00:23:17,755 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-04-12 01:38:54,391 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-04-12 02:04:06,903 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-04-12 02:16:57,542 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-04-12 03:58:07,071 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-04-12 04:23:41,280 - INFO - 
+==================================================
+2025-04-12 04:23:41,280 - INFO - Starting fine-tuning...
+2025-04-12 04:23:41,280 - INFO - ==================================================
+2025-04-12 07:32:44,025 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-04-12 08:21:52,329 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-04-12 20:33:57,948 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-04-12 20:47:32,472 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-04-12 21:47:39,571 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-04-12 22:00:58,348 - INFO - 
+==================================================
+2025-04-12 22:00:58,348 - INFO - Training completed in 1729m 40s
+2025-04-12 22:00:58,348 - INFO - ==================================================
+2025-04-12 22:00:58,352 - INFO - 
+==================================================
+2025-04-12 22:00:58,352 - INFO - Evaluating model...
+2025-04-12 22:00:58,352 - INFO - ==================================================
+2025-04-12 22:03:00,167 - INFO - 
+Validation Loss: 1.1970
+2025-04-12 22:03:00,167 - INFO - Validation Accuracy: 0.7134
+2025-04-12 22:05:58,442 - INFO - 
+Classification report and confusion matrix saved to utils/
+2025-04-12 22:05:58,442 - INFO - ==================================================
+2025-04-12 22:05:58,442 - INFO - Evaluation completed successfully!
+2025-04-12 22:05:58,442 - INFO - ==================================================
+2025-04-12 22:05:58,914 - INFO - 
+Training history plots saved to utils/training_history.png
+2025-04-12 22:05:58,914 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-04-12 22:05:59,317 - INFO - 
+==================================================
+2025-04-12 22:05:59,317 - INFO - Model saved successfully at models/herb_classifier.h5
+2025-04-12 22:05:59,317 - INFO - ==================================================
+2025-04-12 22:05:59,317 - INFO - 
+==================================================
+2025-04-12 22:05:59,317 - INFO - Training pipeline completed successfully!
+2025-04-12 22:05:59,319 - INFO - ==================================================
+2025-04-18 17:34:37,490 - INFO - Found 40 plant classes and 80 leaf classes
+2025-04-18 17:34:37,496 - INFO - Found 40 plant classes and 80 leaf classes
+2025-04-18 17:34:37,498 - INFO - Total unique classes: 99
+2025-04-18 17:34:37,498 - INFO - Total unique classes: 99
+2025-04-18 17:34:37,498 - INFO - Total images: 12845
+2025-04-18 17:34:37,500 - INFO - Total images: 12845
+2025-04-18 17:34:37,500 - INFO - Average images per class: 129.7
+2025-04-18 17:34:37,500 - INFO - Average images per class: 129.7
+2025-04-18 17:34:41,390 - INFO - 
+==================================================
+2025-04-18 17:34:41,394 - INFO - Testing dataset generators...
+2025-04-18 17:34:41,396 - INFO - 
+==================================================
+2025-04-18 17:34:41,396 - INFO - ==================================================
+2025-04-18 17:34:41,398 - INFO - 
+Testing plant dataset generator...
+2025-04-18 17:34:41,398 - INFO - Testing dataset generators...
+2025-04-18 17:34:41,404 - INFO - ==================================================
+2025-04-18 17:34:41,406 - INFO - 
+Testing plant dataset generator...
+2025-04-18 17:34:43,680 - INFO - Plant train batch - X shape: (32, 224, 224, 3), y shape: (32, 99)
+2025-04-18 17:34:43,682 - INFO - Plant classes in batch: 23 classes
+2025-04-18 17:34:43,682 - INFO -   Amla: 2 samples
+2025-04-18 17:34:43,684 - INFO -   Arali: 1 samples
+2025-04-18 17:34:43,684 - INFO -   Ashoka: 1 samples
+2025-04-18 17:34:43,684 - INFO -   Ashwagandha: 2 samples
+2025-04-18 17:34:43,686 - INFO -   Bamboo: 1 samples
+2025-04-18 17:34:43,686 - INFO -   Basale: 1 samples
+2025-04-18 17:34:43,686 - INFO -   Betel: 1 samples
+2025-04-18 17:34:43,687 - INFO -   Betel_Nut: 1 samples
+2025-04-18 17:34:43,691 - INFO -   Brahmi: 2 samples
+2025-04-18 17:34:43,695 - INFO -   Castor: 1 samples
+2025-04-18 17:34:43,699 - INFO -   Ekka: 1 samples
+2025-04-18 17:34:43,699 - INFO -   Gauva: 1 samples
+2025-04-18 17:34:43,701 - INFO - Plant train batch - X shape: (32, 224, 224, 3), y shape: (32, 99)
+2025-04-18 17:34:43,706 - INFO -   Geranium: 2 samples
+2025-04-18 17:34:43,706 - INFO -   Henna: 2 samples
+2025-04-18 17:34:43,708 - INFO - Plant classes in batch: 24 classes
+2025-04-18 17:34:43,715 - INFO -   Jasmine: 1 samples
+2025-04-18 17:34:43,717 - INFO -   Amla: 2 samples
+2025-04-18 17:34:43,717 - INFO -   Lemon: 1 samples
+2025-04-18 17:34:43,722 - INFO -   Amruta_Balli: 1 samples
+2025-04-18 17:34:43,722 - INFO -   Mint: 1 samples
+2025-04-18 17:34:43,725 - INFO -   Avacado: 2 samples
+2025-04-18 17:34:43,728 - INFO -   Nagadali: 2 samples
+2025-04-18 17:34:43,729 - INFO -   Bamboo: 1 samples
+2025-04-18 17:34:43,731 - INFO -   Pappaya: 2 samples
+2025-04-18 17:34:43,733 - INFO -   Basale: 1 samples
+2025-04-18 17:34:43,736 - INFO -   Pepper: 2 samples
+2025-04-18 17:34:43,738 - INFO -   Betel: 3 samples
+2025-04-18 17:34:43,738 - INFO -   Pomegranate: 2 samples
+2025-04-18 17:34:43,738 - INFO -   Betel_Nut: 1 samples
+2025-04-18 17:34:43,740 - INFO -   Brahmi: 1 samples
+2025-04-18 17:34:43,745 - INFO -   Raktachandini: 1 samples
+2025-04-18 17:34:43,747 - INFO -   Sapota: 1 samples
+2025-04-18 17:34:43,748 - INFO -   Castor: 1 samples
+2025-04-18 17:34:43,748 - INFO - 
+Testing leaf dataset generator...
+2025-04-18 17:34:43,750 - INFO -   Doddapatre: 1 samples
+2025-04-18 17:34:43,754 - INFO -   Ekka: 3 samples
+2025-04-18 17:34:43,756 - INFO -   Ganike: 1 samples
+2025-04-18 17:34:43,756 - INFO -   Lemon_grass: 1 samples
+2025-04-18 17:34:43,756 - INFO -   Mango: 1 samples
+2025-04-18 17:34:43,758 - INFO -   Mint: 1 samples
+2025-04-18 17:34:43,763 - INFO -   Nagadali: 1 samples
+2025-04-18 17:34:43,766 - INFO -   Nithyapushpa: 1 samples
+2025-04-18 17:34:43,768 - INFO -   Nooni: 1 samples
+2025-04-18 17:34:43,770 - INFO -   Pepper: 1 samples
+2025-04-18 17:34:43,770 - INFO -   Pomegranate: 2 samples
+2025-04-18 17:34:43,770 - INFO -   Raktachandini: 1 samples
+2025-04-18 17:34:43,772 - INFO -   Rose: 1 samples
+2025-04-18 17:34:43,772 - INFO -   Tulasi: 2 samples
+2025-04-18 17:34:43,774 - INFO -   ashoka: 1 samples
+2025-04-18 17:34:43,779 - INFO - 
+Testing leaf dataset generator...
+2025-04-18 17:34:46,628 - INFO - Leaf train batch - X shape: (32, 224, 224, 3), y shape: (32, 99)
+2025-04-18 17:34:46,630 - INFO - Leaf classes in batch: 27 classes
+2025-04-18 17:34:46,634 - INFO -   Amla: 2 samples
+2025-04-18 17:34:46,634 - INFO -   Amruthaballi: 1 samples
+2025-04-18 17:34:46,636 - INFO -   Astma_weed: 1 samples
+2025-04-18 17:34:46,636 - INFO -   Beans: 2 samples
+2025-04-18 17:34:46,636 - INFO -   Bringaraja: 1 samples
+2025-04-18 17:34:46,636 - INFO -   Catharanthus: 3 samples
+2025-04-18 17:34:46,636 - INFO -   Chilly: 1 samples
+2025-04-18 17:34:46,636 - INFO -   Citron lime (herelikai): 1 samples
+2025-04-18 17:34:46,654 - INFO -   Common rue(naagdalli): 1 samples
+2025-04-18 17:34:46,667 - INFO -   Curry: 1 samples
+2025-04-18 17:34:46,671 - INFO -   Drumstick: 1 samples
+2025-04-18 17:34:46,671 - INFO -   Eucalyptus: 1 samples
+2025-04-18 17:34:46,677 - INFO -   Insulin: 1 samples
+2025-04-18 17:34:46,681 - INFO -   Jasmine: 1 samples
+2025-04-18 17:34:46,682 - INFO -   Kambajala: 1 samples
+2025-04-18 17:34:46,682 - INFO -   Malabar_Spinach: 1 samples
+2025-04-18 17:34:46,682 - INFO -   Mango: 1 samples
+2025-04-18 17:34:46,682 - INFO -   Marigold: 1 samples
+2025-04-18 17:34:46,684 - INFO -   Nelavembu: 1 samples
+2025-04-18 17:34:46,684 - INFO -   Onion: 1 samples
+2025-04-18 17:34:46,684 - INFO -   Papaya: 2 samples
+2025-04-18 17:34:46,684 - INFO -   Pumpkin: 1 samples
+2025-04-18 17:34:46,684 - INFO -   Sapota: 1 samples
+2025-04-18 17:34:46,684 - INFO -   Seethapala: 1 samples
+2025-04-18 17:34:46,684 - INFO -   Tamarind: 1 samples
+2025-04-18 17:34:46,686 - INFO -   Tomato: 1 samples
+2025-04-18 17:34:46,686 - INFO -   Tulsi: 1 samples
+2025-04-18 17:34:46,686 - INFO - 
+Testing combined generator...
+2025-04-18 17:34:47,177 - INFO - Leaf train batch - X shape: (32, 224, 224, 3), y shape: (32, 99)
+2025-04-18 17:34:47,177 - INFO - Leaf classes in batch: 26 classes
+2025-04-18 17:34:47,179 - INFO -   Aloevera: 1 samples
+2025-04-18 17:34:47,179 - INFO -   Bamboo: 1 samples
+2025-04-18 17:34:47,179 - INFO -   Beans: 1 samples
+2025-04-18 17:34:47,180 - INFO -   Betel: 1 samples
+2025-04-18 17:34:47,180 - INFO -   Caricature: 1 samples
+2025-04-18 17:34:47,181 - INFO -   Catharanthus: 1 samples
+2025-04-18 17:34:47,181 - INFO -   Coffee: 1 samples
+2025-04-18 17:34:47,181 - INFO -   Curry: 1 samples
+2025-04-18 17:34:47,181 - INFO -   Doddpathre: 2 samples
+2025-04-18 17:34:47,181 - INFO -   Ekka: 1 samples
+2025-04-18 17:34:47,181 - INFO -   Ganike: 2 samples
+2025-04-18 17:34:47,181 - INFO -   Ginger: 1 samples
+2025-04-18 17:34:47,181 - INFO -   Guava: 2 samples
+2025-04-18 17:34:47,181 - INFO -   Henna: 1 samples
+2025-04-18 17:34:47,181 - INFO -   Kohlrabi: 1 samples
+2025-04-18 17:34:47,183 - INFO -   Mint: 1 samples
+2025-04-18 17:34:47,183 - INFO -   Nelavembu: 1 samples
+2025-04-18 17:34:47,183 - INFO -   Nerale: 1 samples
+2025-04-18 17:34:47,184 - INFO -   Onion: 4 samples
+2025-04-18 17:34:47,184 - INFO -   Palak(Spinach): 1 samples
+2025-04-18 17:34:47,185 - INFO -   Papaya: 1 samples
+2025-04-18 17:34:47,186 - INFO -   Seethapala: 1 samples
+2025-04-18 17:34:47,186 - INFO -   Spinach1: 1 samples
+2025-04-18 17:34:47,195 - INFO -   Tamarind: 1 samples
+2025-04-18 17:34:47,197 - INFO -   Tulsi: 1 samples
+2025-04-18 17:34:47,198 - INFO -   camphor: 1 samples
+2025-04-18 17:34:47,198 - INFO - 
+Testing combined generator...
+2025-04-18 17:34:50,671 - INFO - Combined batch - X shape: (64, 224, 224, 3), y shape: (64, 99)
+2025-04-18 17:34:50,702 - INFO - Total classes in combined batch: 46
+2025-04-18 17:34:52,231 - INFO - 
+Dataset samples visualization saved to utils/dataset_samples.png
+2025-04-18 17:34:52,231 - INFO - ==================================================
+2025-04-18 17:34:52,231 - INFO - Dataset testing completed successfully!
+2025-04-18 17:34:52,231 - INFO - ==================================================
+
+2025-04-18 17:34:52,585 - INFO - Combined batch - X shape: (64, 224, 224, 3), y shape: (64, 99)
+2025-04-18 17:34:52,585 - INFO - Total classes in combined batch: 41
+2025-04-18 17:34:54,790 - INFO - 
+Dataset samples visualization saved to utils/dataset_samples.png
+2025-04-18 17:34:54,795 - INFO - ==================================================
+2025-04-18 17:34:54,807 - INFO - Dataset testing completed successfully!
+2025-04-18 17:34:54,817 - INFO - ==================================================
+
+2025-04-18 17:34:58,504 - INFO - ==================================================
+2025-04-18 17:34:58,508 - INFO - Starting model training...
+2025-04-18 17:34:58,509 - INFO - ==================================================
+2025-04-18 17:34:59,370 - INFO - ==================================================
+2025-04-18 17:34:59,370 - INFO - Starting model training...
+2025-04-18 17:34:59,372 - INFO - ==================================================
